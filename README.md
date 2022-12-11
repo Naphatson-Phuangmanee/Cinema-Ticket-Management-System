@@ -61,4 +61,9 @@ And here is class diagram of the program.
 * [Seatmanage](seatmanage.py): Get avaliable seats from the showid.csv file and get all of the showid.csv file.
 * [Show.py](show.py): Get show data by showid from the csv file and get all shows avaliable from the csv file.
 * [Tickets.py](tickets.py): Get ticket data by ticketid or ownername from the csv file, get ticket details by ticketid from the csv file and create a new ticket generate new ticket id, add record to the csv file and update seat reserved status.
-function.
+
+## Function of Cinema Ticket Management System
+1. Option "1": Get Show List And Select A Show, Get Avaliable Seats and Select A Seat , Prompt Owner Name and Create Ticket.
+2. Option "2": Check Ticket
+3. Option "3": Syncing Ticket & Seat Status
+4. Option "4": Exit the program
