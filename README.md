@@ -59,7 +59,7 @@ And here is class diagram of the program.
 ## Code structure
 * [main.py](main.py): Retrieve data from database to display when ticket issuing and manage to call objects of each class to work together.
 * [Seat.py](seat.py):  It use for indicates the ticket's cinema seating position.
-* [Seatmanage.py](seatmanage.py): Get avaliable seats from the showid.csv file and get all of the showid.csv file.
+* [Seatmanage.py](seatmanage.py): Get avaliable seats from the showid.csv file.
 * [Show.py](show.py): Get show data by showid from the csv file and get all shows avaliable from the csv file.
 * [Tickets.py](ticket.py): Get ticket data by ticketid or ownername from the csv file, get ticket details by ticketid from the csv file and create a new ticket generate new ticket id, add record to the csv file and update seat reserved status.
 
