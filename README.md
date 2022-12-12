@@ -66,5 +66,7 @@ And here is class diagram of the program.
 ## Function of Cinema Ticket Management System
 1. Option "1": Get Show List And Select A Show, Get Avaliable Seats and Select A Seat , Prompt Owner Name and Create Ticket.
 2. Option "2": Check Ticket
+ 2.1 Check Ticket from ID
+ 2.2 Check Ticket from Owner's Name
 3. Option "3": Syncing Ticket & Seat Status
 4. Option "4": Exit the program
