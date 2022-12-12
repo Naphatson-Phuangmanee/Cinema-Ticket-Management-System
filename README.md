@@ -44,7 +44,7 @@ Show is use to store Show time data. Also used to work with class Tickets.
 * update(): Modify the reserve status.
 * __eq_(): Fixed object equality check method so that objects with seatID and showID are equal.
 
-# SeatManage Class
+## SeatManage Class
 ### Attributes
 * showID: int
 ### Functions
